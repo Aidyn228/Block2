@@ -16,9 +16,9 @@ A: Preparations - how to run dApp locally
    2.Open main.html file
 7. Connect to the ganache network on your MetaMask by the private key
 8. Functionality
-Adding a new model
+## Adding a new model
 ![image](https://github.com/user-attachments/assets/8560d68f-7317-4394-8d31-5bf8530a1188)
-Listed models with functions to buy the or rate them. Withdraw function
+## Listed models with functions to buy the or rate them. Withdraw function
  <img width="514" alt="image" src="https://github.com/user-attachments/assets/0ebacd75-4db8-47c2-9253-a92a6d077931">
 
 
